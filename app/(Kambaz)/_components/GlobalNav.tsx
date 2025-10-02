@@ -24,7 +24,7 @@ export default function GlobalNav() {
           <li><Link id="wd-course-link" href="/Courses/CS5610">Course</Link></li>
           <li><Link id="wd-calendar-link" href="/Calendar">Calendar</Link></li>
           <li><Link id="wd-inbox-link" href="/Inbox">Inbox</Link></li>
-          <li><Link id="wd-labs-link" href="/Labs/Lab1">Labs</Link></li>
+          <li><Link id="wd-labs-link" href="/Labs">Labs</Link></li>
         </ul>
       </nav>
     </aside>
